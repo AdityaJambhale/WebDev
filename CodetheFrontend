@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>VOTING</title>
+</head>
+<body>
+
+	<h1> Voting Information </h1>
+	<hr>
+	<img src="image.jpg"width= "100px">
+
+<br>
+<br>
+<label>Tick if you are above 18+</label>
+<input type="checkbox">
+<br>
+
+<form>	
+<br>
+
+
+<label> Enter your name</label>
+<input>
+<br>
+<label> Enter your email</label>
+<input type="email">
+<br>
+<label>	Enter the password</label>
+<input type="password">
+<br>
+<label>Birth date</label>
+<input type="date">
+<input type="submit">
+
+
+
+
+
+
+</form>
+</body>
+</html>
